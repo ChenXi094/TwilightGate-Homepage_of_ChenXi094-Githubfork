@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/favicon.ico" alt="Github Page" longdesc="https://github.com/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork"/>
+  <img src="https://github.com/favicon.ico" alt="Github Page" longdesc="https://github.com/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork" />
 </div>
 
 [![](https://github.com/favicon.ico)](https://github.com/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork/)
