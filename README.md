@@ -5,4 +5,3 @@
 [![](https://github.com/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork/blob/448d633477866d328f99bd75b21005fef9d0b5aa/lib/discord_32x32.png)](https://discord.gg/AeMtg8XU)
 [![](https://github.com/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork/blob/448d633477866d328f99bd75b21005fef9d0b5aa/lib/osu_32x32.png)](https://osu.ppy.sh/users/23890527)
 [![](https://github.com/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork/blob/448d633477866d328f99bd75b21005fef9d0b5aa/lib/twitter_32x32.png)](https://x.com/ChenXi094)
-
