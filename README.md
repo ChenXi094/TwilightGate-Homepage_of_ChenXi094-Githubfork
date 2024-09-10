@@ -10,3 +10,23 @@
 
 ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D673806747&query=%24.data.totalSubs&label=Bilibili%20totalsubs&color=00b3ee)
 ![](https://img.shields.io/github/stars/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork.svg)  
+
+-------------
+# Osu!mania file lib
+1
+2
+34
+5
+
+-------------
+# Minecraft file lib
+
+4
+5
+6
+
+-------------
+# Mahjong Soul
+
+6
+0
